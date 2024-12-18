@@ -55,8 +55,8 @@ form input.equel{
     .calic form input {
         border: 0;
         outline: 0;
-        width: 40px;
-        height: 40px;
+        width: 45px;
+        height: 45px;
         border-radius: 11px;
         box-shadow: -8px -8px 15px rgba(255 ,255 ,255 ,0.1) ,5px 5px 15px rgba(0 ,0 ,0 ,0.2);
         background-color: transparent;
@@ -68,4 +68,7 @@ form input.equel{
      form input.equel{
         width: 100px;
      }
+     form input.opertaor{
+        color: rgba(0, 255, 255, 0.918);
+      }
 }
